@@ -9,3 +9,6 @@ p {
     font-family: "Libre Franklin", sans-serif;
     line-height: 150%;
 }
+body {
+    background-color: lightblue;
+}
