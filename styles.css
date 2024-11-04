@@ -71,6 +71,7 @@ body {
 .cardd {
 	padding-left: 0;
 	padding-right: 0;
+	height: 640px;
 }
 .img-wrapper {
 	padding: 3rem 3rem 0 3rem;
