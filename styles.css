@@ -73,18 +73,23 @@ body {
 	padding-right: 0;
 	height: 640px;
 }
+.cardd:hover {
+	background-color: #cbdbdc;
+}
 .img-wrapper {
 	padding: 3rem 3rem 0 3rem;
-	border-radius: 1rem 1rem 0 0;
+	border-radius: 0.75;
 	background-color: #f3f3f3;
-
+	height: 380px;
+    text-align: center;
 }
 .img-wrapper img {
 	margin-bottom: -0.5rem;
+	height: 100%;
 }
 .content-wrapper {
 	margin-top: 1rem;
 }
-.inline {
-	display: inline;
+.inline-block {
+	display: inline-block;
 }
