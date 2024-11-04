@@ -80,3 +80,6 @@ body {
 .content-wrapper {
 	margin-top: 1rem;
 }
+.inline {
+	display: inline;
+}
