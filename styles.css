@@ -13,11 +13,10 @@ p {
     margin-top: 0.5rem;
     margin-bottom: 1rem;
 }
-.hero {
+.main-intro {
 	background: linear-gradient(-45deg, #f8edeb, #e8e8e4, #C1DBFC, #E2C6E5);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
-	height: 100vh;
 }
 
 @keyframes gradient {
