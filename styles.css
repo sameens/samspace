@@ -48,6 +48,9 @@ p {
     margin-top: 0.5rem;
     margin-bottom: 1rem;
 }
+.text-base {
+	font-size: 1rem;
+}
 body {
 	background: linear-gradient(-45deg, #f8edeb, #e8e8e4, #C1DBFC, #E2C6E5);
 	background-size: 400% 400%;
@@ -64,4 +67,16 @@ body {
 	100% {
 		background-position: 0% 50%;
 	}
+}
+.img-wrapper {
+	padding: 3rem 3rem 0 3rem;
+	border-radius: 1rem 1rem 0 0;
+	background-color: #f3f3f3;
+
+}
+.img-wrapper img {
+	margin-bottom: -0.5rem;
+}
+.content-wrapper {
+	margin-top: 1rem;
 }
