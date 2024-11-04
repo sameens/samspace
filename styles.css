@@ -74,11 +74,11 @@ body {
 	height: 640px;
 }
 .cardd:hover {
-	background-color: #cbdbdc;
+	background-color: #a1b6ce;
 }
 .img-wrapper {
 	padding: 3rem 3rem 0 3rem;
-	border-radius: 0.75;
+	border-radius: 0.75rem;
 	background-color: #f3f3f3;
 	height: 380px;
     text-align: center;
@@ -89,6 +89,9 @@ body {
 }
 .content-wrapper {
 	margin-top: 1rem;
+}
+.content-wrapper h3 {
+	color: #222222;
 }
 .inline-block {
 	display: inline-block;
