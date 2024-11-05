@@ -51,7 +51,7 @@ p {
 .text-base {
 	font-size: 1rem;
 }
-body {
+.gradient {
 	background: linear-gradient(-45deg, #f8edeb, #e8e8e4, #C1DBFC, #E2C6E5);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
@@ -73,8 +73,8 @@ body {
 	padding-right: 0;
 	height: 640px;
 }
-.cardd:hover {
-	background-color: #a1b6ce;
+a.cardd:hover {
+	background-color: #cbdbdc;
 }
 .img-wrapper {
 	padding: 3rem 3rem 0 3rem;
@@ -90,7 +90,7 @@ body {
 .content-wrapper {
 	margin-top: 1rem;
 }
-.content-wrapper h3 {
+.content-wrapper h3, .content-wrapper p {
 	color: #222222;
 }
 .inline-block {
